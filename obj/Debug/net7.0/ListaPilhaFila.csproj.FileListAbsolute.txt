@@ -1,0 +1,15 @@
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.exe
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.deps.json
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.runtimeconfig.json
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.pdb
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.csproj.AssemblyReference.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.AssemblyInfoInputs.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.AssemblyInfo.cs
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.csproj.CoreCompileInputs.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\refint\ListaPilhaFila.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.pdb
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.genruntimeconfig.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ref\ListaPilhaFila.dll
