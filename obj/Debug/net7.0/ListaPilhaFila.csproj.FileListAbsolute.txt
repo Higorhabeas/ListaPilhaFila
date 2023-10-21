@@ -13,3 +13,18 @@ C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.
 C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.pdb
 C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.genruntimeconfig.cache
 C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ref\ListaPilhaFila.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.exe
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.deps.json
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.runtimeconfig.json
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\bin\Debug\net7.0\ListaPilhaFila.pdb
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.csproj.AssemblyReference.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.AssemblyInfo.cs
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\refint\ListaPilhaFila.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.pdb
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ListaPilhaFila.genruntimeconfig.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\ListaPilhaFila\obj\Debug\net7.0\ref\ListaPilhaFila.dll
