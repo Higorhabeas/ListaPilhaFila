@@ -1,5 +1,60 @@
 ﻿using System;
 
+class StaticPilha {
+    private int[] Pilha;
+    private int tamanhoMax;
+    private int topo;
+
+    public StaticPilha(int tamanho){
+
+        tamanhoMax = tamanho;
+        Pilha = new int[tamanho];
+        topo = 0;
+    }
+
+    public bool EstaVazia(){
+
+        return topo == 0;
+    }
+    public bool EstaCheia(){
+
+        return (topo + 1) == tamanhoMax;
+    }
+
+    public int ConsultaTopo(){
+
+        if(EstaVazia()){
+           Console.WriteLine("Pilha está vazia. Não é possível ler elementos.");
+           return -1; // Valor padrão para indicar erro 
+        }
+
+        return Pilha[topo];
+    }
+
+    public void Empilha(int elemento){
+
+        if(EstaCheia()){
+            Console.WriteLine("Pilha está cheia. Não é possível inserir mais elementos.");
+            return;
+        }
+        Console.WriteLine("valor do topo: " + topo);
+        topo ++;
+        Pilha[topo] = elemento;
+    }
+
+    public int Desempilha(){
+
+        if (EstaVazia()){
+
+            Console.WriteLine("Pilha está vazia. Não é possível desempilhar elementos.");
+            return -1;
+        }
+        int elemento = Pilha[topo];
+        topo --;
+        return elemento;
+    }
+}
+
 class StaticFila
 {
         /*declarando o que iremos precisar para FILA
@@ -125,5 +180,36 @@ class Program
         }
 
         Console.WriteLine("Fila está vazia? " + Fila.EstaVazia());
+
+        /*TRABALHANDO COM PILHA*/
+        /*criando uma pilha com 5 elementos*/
+        StaticPilha Pilha = new(5);
+         /*inserindo  elementos na pilha*/
+        Pilha.Empilha(1);
+        Pilha.Empilha(2);
+        Pilha.Empilha(3);
+        Pilha.Empilha(4);
+
+        /*verificando e consultando o topo da pilha*/
+        Console.WriteLine("Elemento do topo: " + Pilha.ConsultaTopo());
+
+        /*removendo o elemento da pilha e mostrando qual elemento foi retirado*/
+        int elementoRemovido = Pilha.Desempilha();
+        Console.WriteLine("Elemento removido da pilha: " + elementoRemovido);
+
+        Console.WriteLine("Elemento da frente após a remoção da pilha: " + Pilha.ConsultaTopo());
+
+        Pilha.Empilha(5);
+        Pilha.Empilha(6);
+        /*testando overflow*/
+        Pilha.Empilha(7);
+
+        /*removendo elementos da pilha enquanto não estiver vazia*/
+        while (!Pilha.EstaVazia()){
+
+            Console.WriteLine("Elemento removido da pilha: "+ Pilha.Desempilha());
+        }
+        
+        Console.WriteLine("Pilha está vazia? " + Pilha.EstaVazia());
     }
 }
