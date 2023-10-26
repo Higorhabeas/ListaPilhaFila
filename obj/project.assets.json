@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\": {}
+    "C:\\Users\\Higor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\ListaPilhaFila\\ListaPilhaFila.csproj",
+      "projectUniqueName": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\ListaPilhaFila\\ListaPilhaFila.csproj",
       "projectName": "ListaPilhaFila",
-      "projectPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\ListaPilhaFila\\ListaPilhaFila.csproj",
-      "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\ListaPilhaFila\\obj\\",
+      "projectPath": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\ListaPilhaFila\\ListaPilhaFila.csproj",
+      "packagesPath": "C:\\Users\\Higor\\.nuget\\packages\\",
+      "outputPath": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\ListaPilhaFila\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Higor\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
